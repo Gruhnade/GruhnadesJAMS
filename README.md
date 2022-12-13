@@ -45,7 +45,7 @@ a discord music bot with many commands , buttons , 24/7 , autoresume ,etc
 
 ## Feedback
 
-If you have any feedback, please reach out to us at [Discord Server](https://discord.gg/FuKfAREn9f)
+If you have any feedback, please reach out to us at [Discord Server]
 
 ## License
 
